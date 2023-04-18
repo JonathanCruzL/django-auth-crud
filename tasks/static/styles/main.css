@@ -1,0 +1,45 @@
+body {
+    background-color: #454545;
+}
+
+.card {
+    background-color: #fbfff7f2;
+}
+
+.btn a {
+    text-decoration: none;
+    color:inherit;
+
+}
+
+.btn-dark:hover {
+    color:chartreuse;
+    border-color:chartreuse;
+}
+
+.btn-secondary:hover {
+    color:chartreuse;
+    border-color:chartreuse;
+}
+
+.btn-danger:hover {
+    color:chartreuse;
+    border-color:chartreuse;
+}
+
+.list-group-item {
+    border-color: #020202;
+}
+
+ul a:hover {
+    color:chartreuse;
+    border-color:chartreuse;
+}
+.nav-item a:hover {
+    color:chartreuse;
+    border-color:chartreuse;
+}
+
+.form-check-input {
+    border-color: black;
+}
