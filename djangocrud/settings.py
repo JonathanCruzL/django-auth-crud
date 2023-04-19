@@ -27,8 +27,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY', default='your secret key')
 # COMPRESS_ENABLED = os.environ.get('COMPRESS_ENABLED', False)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = 'RENDER' not in os.environ
-DEBUG = True
+DEBUG = 'RENDER' not in os.environ
+# DEBUG = True
 
 
 ALLOWED_HOSTS = []
